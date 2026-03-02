@@ -1,0 +1,2 @@
+# SmOVbsWfhJ
+本系统是基于Python的个性化餐饮场所推荐系统，采用MVC架构模式，整合Vue、Mysql和Django技术。系统核心功能是为用户提供个性化的餐饮场所推荐，旨在解决用户在众多餐饮选择中的决策难题。操作环境兼容Windows10和MacOs，数据库使用Mysql8，Python版本为3.7.7，开发工具为PyCharm。系统简洁高效，为用户带来精准的餐饮推荐服务。
